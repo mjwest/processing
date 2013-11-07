@@ -1,0 +1,4 @@
+2012	DAFF, AGD, DBCDE, DCCEE, Defence, DEEWR, FaHCSIA, Finance, DFAT, DoHA, DHS, DIC, DIISRTE, DIT, PM&C, DRALGAS, RET, SEWPaC, Treasury, DVA
+1991	DAS, DASETT, AGD, Defence, DEET, Finance, DFAT, HHCS, ILGEA, IR, ITC, PIE, PM&C, SS, TaC, Treasury
+1979	DAA, DAS, AGD, BCA, Defence, Education, DEYA, Finance, DFAT, Health, DHA, DHC, DIEA, DIR, DIC, DND, P&T, DPI, PM&C, DoP, DSE, DSS, DTR, Transport, Treasury, DVA
+1901	AGD, Defence, HS, PG, PM, Treasury, T&C
